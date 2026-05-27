@@ -1,0 +1,17 @@
+{
+  "id": "FPGA_Xilinx_Virtex6/XC6VSX315T-FF1156:XC6VSX315T-FF1156",
+  "name": "XC6VSX315T-FF1156",
+  "library": "FPGA_Xilinx_Virtex6",
+  "file": "FPGA_Xilinx_Virtex6.kicad_symdir/XC6VSX315T-FF1156.kicad_sym",
+  "description": "Virtex 6 SXT 315 XC6VSX315T-FF1156",
+  "datasheet": "",
+  "keywords": "FPGA",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-fpga-xilinx-virtex6@master/parts/XC6VSX315T-FF1156/",
+  "part_path": "parts/XC6VSX315T-FF1156",
+  "symbol_file": "parts/XC6VSX315T-FF1156/XC6VSX315T-FF1156.kicad_sym",
+  "source_library": "FPGA_Xilinx_Virtex6.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:23.907Z"
+}
